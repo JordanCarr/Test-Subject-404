@@ -1,4 +1,7 @@
 # Test Subject 404
+
+[Play](ts404.jordan-carr.com)
+
 ## Pitch
 You suddenly find yourself ina mysterious field, and after exploring some nearby portals realize that your only chance at salvation is to beat the challenges set out before you!
 
