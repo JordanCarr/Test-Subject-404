@@ -18,7 +18,7 @@
 - Internet connectivity
 
 ## Pitch
-You suddenly find yourself ina mysterious field, and after exploring some nearby portals realize that your only chance at salvation is to beat the challenges set out before you!
+You suddenly find yourself in a mysterious field, and after exploring some nearby portals realize that your only chance at salvation is to beat the challenges set out before you!
 
 ##  Audience
 The audience includes all age groups so long as the individual has the ability to perform fine motor movement of both their right and left hand for movement and camera controls respectively.
