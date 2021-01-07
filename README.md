@@ -2,6 +2,21 @@
 
 [Play](https://ts404.jordan-carr.com)
 
+## Requirements
+### Browser meeting these minimum version requirements:
+- Chrome 56+
+- Firefox 51+
+- Edge 79+
+- Opera 43+
+
+### Device meeting the following requirements:
+- Mouse
+- Keyboard (QWERTY)
+- Speakers
+- Display with a resolution greater than 1280 by 720 pixels
+- Graphics and central processor capable of running modern 3D games
+- Internet connectivity
+
 ## Pitch
 You suddenly find yourself ina mysterious field, and after exploring some nearby portals realize that your only chance at salvation is to beat the challenges set out before you!
 
